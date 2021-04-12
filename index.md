@@ -15,11 +15,11 @@ Syntax highlighted code block
 **LonghornAE REPO**
 
 
-- Bulleted
-- List
+- **Users**
+- _List_
 
-1. Numbered
-2. List
+1. __Numbered__
+2. **Counter**
 
 **Bold** and _Italic_ and `Code` text
 
