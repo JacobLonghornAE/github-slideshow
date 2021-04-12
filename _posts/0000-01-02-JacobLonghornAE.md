@@ -1,6 +1,6 @@
 ---
-layout: This shit
+layout: This Stuff
 title: "Welcome to our second slide!"
 ---
-"Yep"
+"My witty comment"
 Use the left arrow to go back!
